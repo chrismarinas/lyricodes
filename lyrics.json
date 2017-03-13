@@ -1,0 +1,38 @@
+{
+  "403": {
+    "error_message": "Forbidden",
+    "description": "The server can be reached and process the request, but refuses to take any further action. It is usually the result of the web server being configured to deny access to the requested resource by the client.",
+    "lyrics": [
+      {
+        "message": "What the hell am I doing here?",
+        "submessage": "I don't belong here.",
+        "song": "Creep",
+        "artist": "Radiohead"
+      }
+    ]
+  },
+  "404": {
+    "error_message": "Not Found",
+    "description": "The client was able to communicate with a given server, but the server could not find what was requested. It is usually the result of a user attempting to follow a broken or dead link.",
+    "lyrics": [
+      {
+        "message": "Hello?",
+        "submessage": "Is it me you're looking for?".
+        "song": "Hello",
+        "artist": "Lionel Richie"
+      }
+    ]
+  },
+  "503": {
+    "error_message": "Service Unavailable",
+    "description": "The server was unavailable due to a site that is overloaded or down for maintenance. It is generally a temporary state.",
+    "lyrics": [
+      {
+        "message": "Gonna take some time...",
+        "submessage": "to do the things we never had",
+        "song": "Africa",
+        "artist": "Toto"
+      }
+    ]
+  }
+}
